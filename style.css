@@ -1,0 +1,21 @@
+h1 {
+    color: brown;
+    font-weight: bold;
+}
+.main {
+    text-align: center;
+}
+
+#one {
+    background-color: brown;
+    color: white;
+}
+
+#two {
+    background-color: #3c1414;
+    color: white;
+}
+
+p {
+    font-size: 20px;
+}
